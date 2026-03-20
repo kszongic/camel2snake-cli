@@ -1,0 +1,30 @@
+{
+  "name": "@kszongic/camel2snake-cli",
+  "version": "1.0.0",
+  "description": "Convert camelCase and PascalCase strings to snake_case from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "camel2snake": "index.js"
+  },
+  "keywords": [
+    "camelcase",
+    "snake_case",
+    "convert",
+    "case",
+    "cli",
+    "string",
+    "transform"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/camel2snake-cli.git"
+  },
+  "homepage": "https://github.com/kszongic/camel2snake-cli#readme",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ]
+}
